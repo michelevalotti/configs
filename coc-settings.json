@@ -1,0 +1,11 @@
+{
+  "Lua.workspace.library": [
+    "${3rd}/luv/library"
+  ],
+  "sumneko-lua.enableNvimLuaDev": true,
+  "diagnostic.enableHighlightLineNumber": false,
+  "diagnostic.enableSign": false,
+  "diagnostic.refreshOnInsertMode": true,
+  "diagnostic.enableMessage": "jump",
+  "inlayHint.enable": false
+}
